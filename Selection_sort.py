@@ -1,3 +1,7 @@
+# find the minimum value and swap it with the first element
+# start position at 0 and each iteration increasing where the position is swapped
+# once entire array is sorted return the new array
+
 arr = [3, 2, 5, 4, 6]
 
 def Selection_sort(arr):
